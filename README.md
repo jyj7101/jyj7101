@@ -5,6 +5,7 @@
 ### 🌱 I’m currently learning 
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=black) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=) ![C#](https://img.shields.io/badge/C_Sharp-239120?style=for-the-badge&logo=CSharp&logoColor=white) ![Unity](https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=Unity&logoColor=black)
 
+### Portfolio
  <a href="https://j0j.notion.site/My-study-01d35bc9e34d4d7499133e741f545e34?pvs=4" target="_blank"><img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"/></a>
  
 ### 😄 Used at least once
