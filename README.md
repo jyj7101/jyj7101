@@ -1,5 +1,5 @@
 ## Hi there 👋
-### I'm a newbie game developer
+### Game Programmer
 ##### I studied in ChungKang College of cultural industries.
 ##### I'm into shader and client programming.
 ### 🌱 I’m currently learning 
