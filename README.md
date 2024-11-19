@@ -15,8 +15,8 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wn3247101@gmail.com)](mailto:wn3247101@gmail.com) [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:jyj7101@naver.com)](mailto:jyj7101@naver.com)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jyj7101&show_icons=true&theme=radical)
+//![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jyj7101&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jyj7101&layout=donut)](https://github.com/anuraghazra/github-readme-stats) 
+//[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jyj7101&layout=donut)](https://github.com/anuraghazra/github-readme-stats) 
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jyj7101)](https://solved.ac/jyj7101/)
+//[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jyj7101)](https://solved.ac/jyj7101/)
